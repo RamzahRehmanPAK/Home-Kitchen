@@ -32,7 +32,7 @@ User is directed to the following page after logging in or signing up.
 4.	Post Food
 User can post his food item through the following webpage. 
 
-![alt text](https://github.com/RamzahRehmanPAK/Home-Kitchen/blob/master/HomeKitchen/HomeKitchen/Website%20Screenshots/image004.png)
+![alt text](https://github.com/RamzahRehmanPAK/Home-Kitchen/blob/master/HomeKitchen/HomeKitchen/Website%20Screenshots/image004.jpg)
 
 5.	Order Food
 User can order his food item by coming on the homepage where all the food items appear. To order a food, he will click on the food post and order the particular item. 
@@ -41,7 +41,7 @@ User can order his food item by coming on the homepage where all the food items 
 
 On just placing the mouse over the food post, following details will be hovered onto the webpage so that user can order the food item.
 
- ![alt text](https://github.com/RamzahRehmanPAK/Home-Kitchen/blob/master/HomeKitchen/HomeKitchen/Website%20Screenshots/image006.jpg)
+ ![alt text](https://github.com/RamzahRehmanPAK/Home-Kitchen/blob/master/HomeKitchen/HomeKitchen/Website%20Screenshots/image006.png)
 
 Through this form, user can place his order.
 
