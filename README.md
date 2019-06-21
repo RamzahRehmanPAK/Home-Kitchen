@@ -16,7 +16,7 @@ User Interface has been kept quite responsive. This way, everyone having a basic
 
 1.	Sign Up
 User has to sign up through the following web page:
-![alt text](https://github.com/RamzahRehmanPAK/Home-Kitchen/tree/master/HomeKitchen/HomeKitchen/Website%20Screenshots)
+![alt text](https://github.com/RamzahRehmanPAK/Home-Kitchen/blob/master/HomeKitchen/HomeKitchen/Website%20Screenshots/image001.jpg)
 2.	Log In
 User has to log in through the following web page:
  
