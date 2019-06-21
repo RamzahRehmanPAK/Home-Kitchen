@@ -16,19 +16,28 @@ User Interface has been kept quite responsive. This way, everyone having a basic
 
 1.	Sign Up
 User has to sign up through the following web page:
+
 ![alt text](https://github.com/RamzahRehmanPAK/Home-Kitchen/blob/master/HomeKitchen/HomeKitchen/Website%20Screenshots/image001.jpg)
+
 2.	Log In
 User has to log in through the following web page:
-![alt text](https://github.com/RamzahRehmanPAK/Home-Kitchen/blob/master/HomeKitchen/HomeKitchen/Website%20Screenshots/image002.jpg)
+
+![alt text](https://github.com/RamzahRehmanPAK/Home-Kitchen/blob/master/HomeKitchen/HomeKitchen/Website%20Screenshots/image002.png)
+
 3.	Home Page
 User is directed to the following page after logging in or signing up.
+
 ![alt text](https://github.com/RamzahRehmanPAK/Home-Kitchen/blob/master/HomeKitchen/HomeKitchen/Website%20Screenshots/image003.jpg)
+
 4.	Post Food
 User can post his food item through the following webpage. 
-![alt text](https://github.com/RamzahRehmanPAK/Home-Kitchen/blob/master/HomeKitchen/HomeKitchen/Website%20Screenshots/image004.jpg)
+
+![alt text](https://github.com/RamzahRehmanPAK/Home-Kitchen/blob/master/HomeKitchen/HomeKitchen/Website%20Screenshots/image004.png)
+
 5.	Order Food
 User can order his food item by coming on the homepage where all the food items appear. To order a food, he will click on the food post and order the particular item. 
-![alt text](https://github.com/RamzahRehmanPAK/Home-Kitchen/blob/master/HomeKitchen/HomeKitchen/Website%20Screenshots/image005.jpg) 
+
+![alt text](https://github.com/RamzahRehmanPAK/Home-Kitchen/blob/master/HomeKitchen/HomeKitchen/Website%20Screenshots/image005.png) 
 
 On just placing the mouse over the food post, following details will be hovered onto the webpage so that user can order the food item.
 
@@ -39,6 +48,7 @@ Through this form, user can place his order.
  ![alt text](https://github.com/RamzahRehmanPAK/Home-Kitchen/blob/master/HomeKitchen/HomeKitchen/Website%20Screenshots/image007.jpg)
 
 After order has been approved and placed, user will be notified about this change.
+
  ![alt text](https://github.com/RamzahRehmanPAK/Home-Kitchen/blob/master/HomeKitchen/HomeKitchen/Website%20Screenshots/image008.jpg)
 
 6.	Profile (Edit Profile)
@@ -48,12 +58,17 @@ User can edit his profile through the following webpage.
 
 7.	Profile (View Items)
 Seller can view all the items posted by him through the following tabbed carousel. 
+
  ![alt text](https://github.com/RamzahRehmanPAK/Home-Kitchen/blob/master/HomeKitchen/HomeKitchen/Website%20Screenshots/image010.jpg)
+ 
 8.	Profile (View Review and Rating)
 Seller can view all the reviews and ratings of items given to him through the following tabbed carousel. 
- ![alt text](https://github.com/RamzahRehmanPAK/Home-Kitchen/blob/master/HomeKitchen/HomeKitchen/Website%20Screenshots/image011.jpg)
+
+ ![alt text](https://github.com/RamzahRehmanPAK/Home-Kitchen/blob/master/HomeKitchen/HomeKitchen/Website%20Screenshots/image011.png)
+ 
 9.	History (w.r.t seller previous orders, seller current orders, buyer previous orders, buyer current orders)
 Following is the history webpage.
+
 ![alt text](https://github.com/RamzahRehmanPAK/Home-Kitchen/blob/master/HomeKitchen/HomeKitchen/Website%20Screenshots/image012.jpg) 
 
 d.	Who maintains and contributes to the project ‘HomeKitchen’?
